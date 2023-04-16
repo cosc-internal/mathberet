@@ -69,6 +69,8 @@ git clone https://github.com/yonatanmgr/mathberet.git
 2. Run `npm install` in the project root folder
 3. Run `npm start` in the project root folder
 
+read in different languages:
+
 ## :handshake: Contributing
 
 We welcome any positive contribution towards our project's growth! Whether you choose to work on a [listed feature](https://github.com/yonatanmgr/mathberet#white_check_mark-features) or create a new one, your help is appreciated. Simply submit a Pull Request after adding your code. To ensure a smooth process, please review our `CODE OF CONDUCT` and read the `CONTRIBUTING` guidelines for further details on submitting pull requests.
