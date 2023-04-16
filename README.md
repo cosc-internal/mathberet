@@ -33,6 +33,8 @@
 
 ### English
 
+Hey just did a 
+
 <details><summary><b>Dark theme and purple accent color</b></summary>
 
 ![image](https://user-images.githubusercontent.com/31913495/225168731-13afd8f2-7e17-448d-a434-5b6bd1f43494.png)
